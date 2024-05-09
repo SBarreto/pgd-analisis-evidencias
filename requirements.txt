@@ -3,4 +3,3 @@ Gunicorn
 requests
 urlextract
 google.generativeai
-os
